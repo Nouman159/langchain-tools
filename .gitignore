@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code and PyCharm
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
+
+# Logs
+*.log
+
+# dotenv environment variables
+*.env
+.env.*
+
+# MyPy and other tools
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
